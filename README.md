@@ -32,3 +32,4 @@ Các hướng dẫn tự học do mình viết sẽ _rất chi là_ **opinionate
 - [Xàm lờ về việc ngủ](bai-viet/xam-lo-ve-viec-ngu.md)
 - [Cách tui lên kế hoạch hàng ngày (*lí tưởng là vậy*)](bai-viet/plan.md)
 - [Đang chán và muốn làm một cái gì đó?](bai-viet/lam-gi.md)
+- [Mang Samsung Galaxy J5 trở lại cuộc sống =))](bai-viet/j5-mininal-setup.md)
