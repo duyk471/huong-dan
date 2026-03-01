@@ -46,6 +46,54 @@ Mình thấy các Podcast kiểu như The Tim Ferris Show hay gì đó rất là
 
 ### Đọc
 
-Đang tìm sách. Sẽ ném gợi ý vào danh sách đọc của cá nhân.
+Đang tìm sách. Sẽ ném gợi ý vào danh sách đọc của cá nhân. Một gợi ý là bản gốc của cuốn Bắt trẻ đồng xanh (?) (The Catcher in the Rye).
 
-Một gợi ý là bản gốc của cuốn Bắt trẻ đồng xanh (?) (The Catcher in the Rye)
+Đây là gợi ý, không lo thiếu nguồn mà đọc.
+
+#### Reddit
+
+- [r/AskReddit](https://www.reddit.com/r/AskReddit) - Câu hỏi mở về trải nghiệm sống. Rất tốt để đọc storytelling ngắn, casual phrasing, humor tự nhiên.
+- [r/relationships](https://www.reddit.com/r/relationships) - Exposure vào emotional language, conflict resolution, everyday American relationship dynamics.
+- [r/AmItheAsshole](https://www.reddit.com/r/AmItheAsshole) - Moral dilemma dạng ngắn. Tốt cho việc phân tích framing, justification, stance-taking.
+- [r/todayilearned](https://www.reddit.com/r/todayilearned) - Fact-based nhưng comment section thường có conversational expansion.
+- [r/TrueOffMyChest](https://www.reddit.com/r/TrueOffMyChest) - Vulnerability + emotional confession (chọn lọc bài non-political).
+- [r/CasualConversation](https://www.reddit.com/r/CasualConversation) - Small talk, friendly tone, low-drama.
+- [r/NoStupidQuestions](https://www.reddit.com/r/NoStupidQuestions) - Cách người Mỹ giải thích những điều đời thường bằng ngôn ngữ đơn giản.
+- [r/tifu](https://www.reddit.com/r/tifu) — ngày người ta kể “Tôi làm lộn” (*Today I F*cked Up*)
+- [r/confessions](https://www.reddit.com/r/confessions) — thú nhận, tâm sự (non-judgmental)
+- [r/AskReddit](https://www.reddit.com/r/AskReddit) — câu hỏi mở tràn ngập trả lời từ văn hoá Mỹ
+- [r/letsnotmeet](https://www.reddit.com/r/letsnotmeet) — chuyện creepy ngoài đời (non-gory)
+- [r/HumansBeingBros](https://www.reddit.com/r/HumansBeingBros) — chuyện người tử tế kiểu feel-good
+- [r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive) — giải thích vấn đề đời thường đơn giản
+- [r/showerthoughts](https://www.reddit.com/r/showerthoughts) — suy nghĩ casual, ngôn ngữ tự nhiên
+- [r/moviesuggestions](https://www.reddit.com/r/moviesuggestions) — tương tác chọn phim và lý do
+- [r/booksuggestions](https://www.reddit.com/r/booksuggestions) — gợi ý sách + comment analysis
+- [r/shortstories](https://www.reddit.com/r/shortstories) — fiction ngắn của cộng đồng
+
+#### Long-form personal writing platforms
+
+- Medium
+- Substack - Một số newsletter cá nhân viết rất tự nhiên, reflective, gần spoken tone (Đang nghĩ danh sách...).
+
+#### Một số trang linh tinh
+
+- [Slate](https://slate.com/advice) - Mục advice columns thường conversational.
+- [New York Magazine - The Cut](https://www.thecut.com/)
+
+#### Stack Exchange
+
+- [English Language & Usage](https://english.stackexchange.com) – Thảo luận về tiếng Anh (ngữ pháp, usage, nuance).
+- [Writing](https://writing.stackexchange.com) – Cho người viết (fiction/non-fiction, craft writing).
+- [Interpersonal Skills](https://interpersonal.stackexchange.com) – Kỹ năng giao tiếp, xử lý mối quan hệ.
+- [The Workplace](https://workplace.stackexchange.com) – Kinh nghiệm làm việc, văn hoá công sở.
+- [Travel](https://travel.stackexchange.com) – Hỏi-đáp về du lịch và trải nghiệm quốc tế.
+- [Parenting](https://parenting.stackexchange.com) – Kinh nghiệm nuôi dạy trẻ.
+- [Lifehacks](https://lifehacks.stackexchange.com) – Mẹo hữu ích cho đời sống hàng ngày.
+- [Personal Finance & Money](https://money.stackexchange.com) – Kiến thức tài chính cá nhân đơn giản và thực tế.
+- [Psychology & Neuroscience](https://psychology.stackexchange.com) – Thảo luận khoa học về tâm lý, não bộ.
+- [Movies & TV](https://movies.stackexchange.com) – Hỏi-đáp về phim và truyền hình (nhiều bình luận fan-driven).
+- [Gaming (Arqade)](https://gaming.stackexchange.com) – Cộng đồng game thủ hỏi-đáp kỹ thuật/ chiến lược game.
+- [Board & Card Games](https://boardgames.stackexchange.com) – Thảo luận về board games, rules và strategy.
+- [Music: Practice & Theory](https://music.stackexchange.com) – Học lý thuyết và thực hành âm nhạc.
+- [Literature](https://literature.stackexchange.com) – Phân tích tác phẩm văn học và chủ đề văn hoá trong văn học.
+- [History](https://history.stackexchange.com) – Hỏi-đáp lịch sử thế giới & chủ đề văn hoá.
