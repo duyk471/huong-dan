@@ -17,7 +17,7 @@ Các hướng dẫn tự học do mình viết sẽ _rất chi là_ **opinionate
 ### Lập trình & Khoa học máy tính
 
 - [Khoa học máy tính](tu-hoc/khmt.md)
-- [Java Backend & React](tu-hoc/java-backend.md) - ChatGPT viết, mình sẽ cải thiện trong quá trình học.
+- [Java Backend & React](tu-hoc/java-backend/index.md).
 - [Vim](tu-hoc/vim.md)
 
 ### Lĩnh vực/chuyên môn
